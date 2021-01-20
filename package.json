@@ -1,0 +1,17 @@
+{
+  "name": "todo-cli-tool",
+  "version": "1.0.0",
+  "description": "TO-DO CLI tool made using NodeJs.",
+  "main": "todo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "To-Do",
+    "CLI",
+    "NodeJS",
+    "Javascript"
+  ],
+  "author": "Sujit Singh",
+  "license": "ISC"
+}
